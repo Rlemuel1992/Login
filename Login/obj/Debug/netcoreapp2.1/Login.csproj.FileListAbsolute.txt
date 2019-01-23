@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\Login\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+C:\Users\Ronad\source\repos\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+C:\Users\Ronad\source\repos\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\Login\Login\bin\Debug\netcoreapp2.1\Login.dll
+C:\Users\Ronad\source\repos\Login\Login\bin\Debug\netcoreapp2.1\Login.pdb
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.dll
+C:\Users\Ronad\source\repos\Login\Login\obj\Debug\netcoreapp2.1\Login.pdb
